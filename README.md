@@ -1,4 +1,3 @@
-# README.md
 <h1 align="center">Hi there👋🏻, I'm Manpreet Singh!!</h1>
 
 <h2 align="center">A Machine Learning, Deep Learning & Data Science enthusiast.</h2>
