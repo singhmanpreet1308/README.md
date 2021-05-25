@@ -10,9 +10,9 @@
 - 📫 How to reach me: singh.manpreet1308@gmail.com
 - ⚡ Fun fact: BETTER LATE THAN NEVER.
 
-###   Skills Highlight:-
-- Data Visualization
-- Statistics
-- SQL
-- Advanced Excel
+### ⚙️ Skills Highlight:-
+- Data Visualization 📈
+- Statistics 📊
+- SQL 🔑 
+- Advanced Excel 📝 
 
